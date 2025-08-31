@@ -1,6 +1,6 @@
 # VibeGuide AI Documentation
 
-GDG
+GDG Google devs
 
 ## About
 
